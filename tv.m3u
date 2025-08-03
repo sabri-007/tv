@@ -1,0 +1,28 @@
+#EXTM3U
+
+# VRT Channels
+#EXTINF:-1 tvg-id="vrt-een" tvg-name="Eén" tvg-language="Dutch" tvg-country="BE" group-title="VRT",Eén (VRT)
+https://live-vrt.akamaized.net/groupc/live/8edf3bdf-7db3-41c3-a318-72cb7f82de66/live_aes.isml/playlist.m3u8
+
+#EXTINF:-1 tvg-id="vrt-canvas" tvg-name="Canvas" tvg-language="Dutch" tvg-country="BE" group-title="VRT",Canvas (VRT)
+https://live-vrt.akamaized.net/groupc/live/edfb01f5-3b3a-4f0c-bf57-2bde38f663cc/live_aes.isml/playlist.m3u8
+
+#EXTINF:-1 tvg-id="vrt-ketnet" tvg-name="Ketnet" tvg-language="Dutch" tvg-country="BE" group-title="VRT",Ketnet (VRT)
+https://live-vrt.akamaized.net/groupc/live/f87ac82f-3e9d-4d36-b3ec-1232c6f5bca5/live_aes.isml/playlist.m3u8
+
+# VTM Channels
+#EXTINF:-1 tvg-id="vtm" tvg-name="VTM" tvg-language="Dutch" tvg-country="BE" group-title="VTM",VTM (Vlaamse Televisie Maatschappij)
+https://stream.vtm.be/hls/live/2013481/stream_1.m3u8
+
+#EXTINF:-1 tvg-id="vtm2" tvg-name="VTM 2" tvg-language="Dutch" tvg-country="BE" group-title="VTM",VTM 2 (Vlaamse Televisie Maatschappij)
+https://stream.vtm.be/hls/live/2013481/stream_2.m3u8
+
+#EXTINF:-1 tvg-id="vtm3" tvg-name="VTM 3" tvg-language="Dutch" tvg-country="BE" group-title="VTM",VTM 3 (Vlaamse Televisie Maatschappij)
+https://stream.vtm.be/hls/live/2013481/stream_3.m3u8
+
+# Play Channels
+#EXTINF:-1 tvg-id="play4" tvg-name="Play4" tvg-language="Dutch" tvg-country="BE" group-title="Play",Play4 (SBS Belgium)
+https://streaming.vtm.be/play4/live.m3u8
+
+#EXTINF:-1 tvg-id="play5" tvg-name="Play5" tvg-language="Dutch" tvg-country="BE" group-title="Play",Play5 (SBS Belgium)
+https://streaming.vtm.be/play5/live.m3u8
